@@ -1,0 +1,141 @@
+import pandas as pd
+import numpy
+import random
+import datetime
+import calendar
+
+
+products = {
+    # Products: Price
+    'iPhone': [999.99, 12],
+    'Samsung - Galaxy SS22': [899.99, 7],
+    '20in Monitor': [109.99, 6],
+    'Apple Watch': [399.99, 9],
+    '34in Ultrawide Monitor': [379.99, 7],
+    '27in 4K Gaming Monitor': [389.99, 9],
+    '27in FHD Monitor': [149.99, 11],
+    'Flatscreen TV':[800, 8],
+    'Dell - G15 15.6" FHD Gaming Laptop': [899.99, 5],
+    'Macbook Pro Laptop': [1700, 9],
+    'ThinkPad Laptop': [999.99, 6],
+    'iPad Pro': [849.99,7],
+    'AA Batteries (4-pack)': [4.75, 30],
+    'AAA Batteries (4-pack)': [3.99, 30],
+    'USB-C Charging Cable': [13.25, 30],
+    'Lightning Charging Cable': [15.25, 30],
+    'Wired Headphones': [14.75, 9],
+    'Bose SoundSport Headphones':[119.99, 20],
+    'Apple Airpods Headphones': [129.00, 22],
+    'LG Washing Machine': [600, 3],
+    'LG Dryer': [600.00, 3]
+
+}
+
+def generate_random_time(month):
+    #Generating a date in the format of mm/dd/year / H:m
+    day_range = calendar.monthrange(2021, month)[1]
+    random_day = random.randint(1,day_range)
+    if random.random() < 0.5:
+        date = datetime.datetime(2021, month, random_day, 12, 0)
+    else:
+        date = datetime.datetime(2021, month, random_day, 21, 0)
+    time_offset = numpy.random.normal(loc=0, scale=180)
+    final_date =  date + datetime.timedelta(minutes=time_offset)
+
+    return final_date.strftime("%m/%d/%y %H:%M ")
+
+
+
+def generate_random_address():
+    street_names = ['Main', '2nd', '1st', '4th', '5th', 'Park', '6th', '7th', 'Maple', 'Pine', 'Washington', '8th',
+                    'Cedar', 'Elm', 'Walnut', '9th', '10th', 'Lake', 'Sunset', 'Lincoln', 'Jackson', 'Church', 'River',
+                    '11th', 'Willow', 'Jefferson', 'Center', '12th', 'North', 'Lakeview', 'Ridge', 'Hickory', 'Adams',
+                    'Cherry', 'Highland', 'Johnson', 'South', 'Dogwood', 'West', 'Chestnut', '13th', 'Spruce', '14th',
+                    'Wilson', 'Meadow', 'Forest', 'Hill', 'Madison', 'Lee', 'Highland']
+    cities = ['New York City', 'Atlanta', 'Phoenix', 'Boston', 'Memphis', 'San Francisco', 'Houston', 'Dallas', 'Miami',
+              'Los Angeles', 'Charlotte']
+    weights= [6,4,7,5,2,9,4,3,2,6,3]
+    states = ['NY', 'GA', 'AZ', 'MA', 'TN', 'CA', 'TX','TX', 'FL', 'CA', 'NC']
+    zips = ['10001','30301', '85007','02215','38028','94016','','73301','77011','90001', '28201']
+
+    street = random.choice(street_names)
+    index = random.choices(range(len(cities)), weights=weights)[0]
+
+    return f"{random.randint(1,999)} {street} St, {cities[index]}, {states[index]} {zips[index]}"
+
+def write_row(order_id, product, order_date, address):
+    price = products[product][0]
+    quantity_ordered = numpy.random.geometric(p=1.0 - (1.0/price), size=1)[0]
+    return [order_id, product, quantity_ordered, price, date, address]
+
+if __name__ == '__main__':
+
+    product_list = [product for product in products]
+    weights = [products[product][1] for product in products]
+
+    columns = ['Order ID', 'Product', 'Quantity Ordered', 'Price Each', 'Order Date', 'Purchase Address']
+
+    order_id = 143253
+
+    for month_value in range(1,13):
+        if month_value <= 10:
+            orders_amount = int(numpy.random.normal(loc=12000, scale=4000))
+
+        if month_value == 11:
+            orders_amount = int(numpy.random.normal(loc=20000, scale=3000))
+
+        if month_value == 12:
+            orders_amount = int(numpy.random.normal(loc=26000, scale=3000))
+
+        df = pd.DataFrame(columns=columns)
+
+        i=0
+        while orders_amount > 0:
+            address = generate_random_address()
+            date = generate_random_time(month_value)
+
+            product = random.choices(product_list, weights=weights)[0]
+            df.loc[i] = write_row(order_id, product, date, address)
+            i += 1
+
+            if product == 'iPhone':
+                if random.random() < 0.15:
+                    df.loc[i] = write_row(order_id, "Lightning Charging Cable", date, address)
+                    i+=1
+                if random.random() < 0.2:
+                        df.loc[i] = write_row(order_id, "Apple Watch", date, address)
+                        i += 1
+                if random.random() < 0.9:
+                    df.loc[i] = write_row(order_id, "Apple Airpods Headphones", date, address)
+                    i+=1
+            elif product == "Macbook Pro Laptop" or product == "Dell - G15 15.6 FHD Gaming Laptop":
+                if random.random() < 0.18:
+                    df.loc[i] = write_row(order_id, "Wired Headphones", date, address)
+                    i += 1
+                if random.random() < 0.3:
+                    df.loc[i] = write_row(order_id, "Bose SoundSport Headphones", date, address)
+                    i += 1
+                if random.random() < 0.8:
+                    df.loc[i] = write_row(order_id, "USB-C Charging Cable", date, address)
+                    i += 1
+
+
+            if random.random() <= 0.02:
+                product2 = random.choices(product_list, weights)[0]
+                df.loc[i] = write_row(order_id, product2, date, address)
+
+            if random.random() <= 0.002:
+                df.loc[i]= columns
+                i += 1
+
+            if random.random() <= 0.003:
+                df.loc[i] = ["", "", "", "", "",""]
+                i += 1
+
+
+            order_id += 1
+            orders_amount -= 1
+
+        month_name = calendar.month_name[month_value]
+        df.to_csv(f"Sales_{month_name}_data.csv", index = False)
+        print(f"{month_name} Completed")
