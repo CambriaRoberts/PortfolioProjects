@@ -1,0 +1,1001 @@
+,Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
+0,0,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+1,1,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+2,2,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+3,3,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+4,4,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+5,5,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+6,6,Wired Headphones,1,"[14.75, 9]",NA,NA
+7,7,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+8,8,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+9,9,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+10,10,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+11,11,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+12,12,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+13,13,Apple Watch,1,"[399.99, 9]",NA,NA
+14,14,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+15,15,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+16,16,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+17,17,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+18,18,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+19,19,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+20,20,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+21,21,LG Dryer,1,"[600.0, 3]",NA,NA
+22,22,Flatscreen TV,1,"[800, 8]",NA,NA
+23,23,iPad Pro,1,"[849.99, 7]",NA,NA
+24,24,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+25,25,iPhone,1,"[999.99, 12]",NA,NA
+26,26,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+27,27,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+28,28,20in Monitor,1,"[109.99, 6]",NA,NA
+29,29,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+30,30,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+31,31,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+32,32,iPhone,1,"[999.99, 12]",NA,NA
+33,33,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+34,34,Wired Headphones,1,"[14.75, 9]",NA,NA
+35,35,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+36,36,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+37,37,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+38,38,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+39,39,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+40,40,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+41,41,Apple Watch,1,"[399.99, 9]",NA,NA
+42,42,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+43,43,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+44,44,20in Monitor,1,"[109.99, 6]",NA,NA
+45,45,LG Dryer,1,"[600.0, 3]",NA,NA
+46,46,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+47,47,iPhone,1,"[999.99, 12]",NA,NA
+48,48,20in Monitor,1,"[109.99, 6]",NA,NA
+49,49,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+50,50,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+51,51,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+52,52,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+53,53,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+54,54,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+55,55,LG Washing Machine,1,"[600, 3]",NA,NA
+56,56,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+57,57,20in Monitor,1,"[109.99, 6]",NA,NA
+58,58,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+59,59,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+60,60,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+61,61,iPad Pro,1,"[849.99, 7]",NA,NA
+62,62,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+63,63,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+64,64,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+65,65,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+66,66,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+67,67,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+68,68,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+69,69,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+70,70,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+71,71,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+72,72,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+73,73,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+74,74,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+75,75,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+76,76,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+77,77,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+78,78,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+79,79,Apple Watch,1,"[399.99, 9]",NA,NA
+80,80,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+81,81,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+82,82,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+83,83,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+84,84,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+85,85,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+86,86,iPhone,1,"[999.99, 12]",NA,NA
+87,87,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+88,88,Flatscreen TV,1,"[800, 8]",NA,NA
+89,89,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+90,90,iPhone,1,"[999.99, 12]",NA,NA
+91,91,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+92,92,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+93,93,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+94,94,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+95,95,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+96,96,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+97,97,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+98,98,Flatscreen TV,1,"[800, 8]",NA,NA
+99,99,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+100,100,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+101,101,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+102,102,iPhone,1,"[999.99, 12]",NA,NA
+103,103,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+104,104,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+105,105,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+106,106,Flatscreen TV,1,"[800, 8]",NA,NA
+107,107,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+108,108,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+109,109,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+110,110,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+111,111,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+112,112,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+113,113,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+114,114,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+115,115,iPhone,1,"[999.99, 12]",NA,NA
+116,116,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+117,117,Wired Headphones,1,"[14.75, 9]",NA,NA
+118,118,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+119,119,iPhone,1,"[999.99, 12]",NA,NA
+120,120,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+121,121,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+122,122,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+123,123,LG Washing Machine,1,"[600, 3]",NA,NA
+124,124,Flatscreen TV,1,"[800, 8]",NA,NA
+125,125,iPhone,1,"[999.99, 12]",NA,NA
+126,126,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+127,127,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+128,128,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+129,129,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+130,130,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+131,131,20in Monitor,1,"[109.99, 6]",NA,NA
+132,132,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+133,133,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+134,134,iPad Pro,1,"[849.99, 7]",NA,NA
+135,135,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+136,136,20in Monitor,1,"[109.99, 6]",NA,NA
+137,137,20in Monitor,1,"[109.99, 6]",NA,NA
+138,138,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+139,139,20in Monitor,1,"[109.99, 6]",NA,NA
+140,140,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+141,141,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+142,142,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+143,143,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+144,144,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+145,145,iPad Pro,1,"[849.99, 7]",NA,NA
+146,146,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+147,147,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+148,148,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+149,149,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+150,150,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+151,151,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+152,152,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+153,153,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+154,154,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+155,155,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+156,156,Apple Watch,1,"[399.99, 9]",NA,NA
+157,157,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+158,158,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+159,159,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+160,160,Flatscreen TV,1,"[800, 8]",NA,NA
+161,161,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+162,162,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+163,163,LG Washing Machine,1,"[600, 3]",NA,NA
+164,164,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+165,165,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+166,166,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+167,167,Wired Headphones,1,"[14.75, 9]",NA,NA
+168,168,Apple Watch,1,"[399.99, 9]",NA,NA
+169,169,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+170,170,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+171,171,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+172,172,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+173,173,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+174,174,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+175,175,LG Dryer,1,"[600.0, 3]",NA,NA
+176,176,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+177,177,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+178,178,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+179,179,iPad Pro,1,"[849.99, 7]",NA,NA
+180,180,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+181,181,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+182,182,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+183,183,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+184,184,iPhone,1,"[999.99, 12]",NA,NA
+185,185,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+186,186,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+187,187,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+188,188,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+189,189,20in Monitor,1,"[109.99, 6]",NA,NA
+190,190,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+191,191,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+192,192,iPhone,1,"[999.99, 12]",NA,NA
+193,193,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+194,194,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+195,195,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+196,196,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+197,197,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+198,198,Apple Watch,1,"[399.99, 9]",NA,NA
+199,199,LG Dryer,1,"[600.0, 3]",NA,NA
+200,200,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+201,201,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+202,202,Apple Watch,1,"[399.99, 9]",NA,NA
+203,203,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+204,204,20in Monitor,1,"[109.99, 6]",NA,NA
+205,205,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+206,206,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+207,207,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+208,208,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+209,209,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+210,210,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+211,211,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+212,212,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+213,213,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+214,214,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+215,215,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+216,216,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+217,217,Apple Watch,1,"[399.99, 9]",NA,NA
+218,218,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+219,219,iPad Pro,1,"[849.99, 7]",NA,NA
+220,220,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+221,221,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+222,222,Apple Watch,1,"[399.99, 9]",NA,NA
+223,223,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+224,224,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+225,225,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+226,226,Wired Headphones,1,"[14.75, 9]",NA,NA
+227,227,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+228,228,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+229,229,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+230,230,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+231,231,Flatscreen TV,1,"[800, 8]",NA,NA
+232,232,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+233,233,iPad Pro,1,"[849.99, 7]",NA,NA
+234,234,iPhone,1,"[999.99, 12]",NA,NA
+235,235,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+236,236,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+237,237,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+238,238,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+239,239,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+240,240,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+241,241,iPhone,1,"[999.99, 12]",NA,NA
+242,242,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+243,243,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+244,244,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+245,245,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+246,246,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+247,247,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+248,248,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+249,249,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+250,250,Flatscreen TV,1,"[800, 8]",NA,NA
+251,251,20in Monitor,1,"[109.99, 6]",NA,NA
+252,252,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+253,253,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+254,254,iPhone,1,"[999.99, 12]",NA,NA
+255,255,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+256,256,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+257,257,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+258,258,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+259,259,Wired Headphones,1,"[14.75, 9]",NA,NA
+260,260,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+261,261,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+262,262,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+263,263,iPhone,1,"[999.99, 12]",NA,NA
+264,264,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+265,265,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+266,266,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+267,267,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+268,268,Wired Headphones,1,"[14.75, 9]",NA,NA
+269,269,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+270,270,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+271,271,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+272,272,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+273,273,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+274,274,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+275,275,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+276,276,iPhone,1,"[999.99, 12]",NA,NA
+277,277,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+278,278,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+279,279,20in Monitor,1,"[109.99, 6]",NA,NA
+280,280,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+281,281,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+282,282,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+283,283,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+284,284,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+285,285,iPad Pro,1,"[849.99, 7]",NA,NA
+286,286,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+287,287,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+288,288,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+289,289,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+290,290,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+291,291,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+292,292,iPhone,1,"[999.99, 12]",NA,NA
+293,293,iPhone,1,"[999.99, 12]",NA,NA
+294,294,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+295,295,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+296,296,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+297,297,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+298,298,Apple Watch,1,"[399.99, 9]",NA,NA
+299,299,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+300,300,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+301,301,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+302,302,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+303,303,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+304,304,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+305,305,Wired Headphones,1,"[14.75, 9]",NA,NA
+306,306,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+307,307,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+308,308,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+309,309,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+310,310,LG Dryer,1,"[600.0, 3]",NA,NA
+311,311,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+312,312,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+313,313,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+314,314,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+315,315,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+316,316,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+317,317,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+318,318,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+319,319,Flatscreen TV,1,"[800, 8]",NA,NA
+320,320,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+321,321,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+322,322,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+323,323,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+324,324,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+325,325,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+326,326,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+327,327,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+328,328,Wired Headphones,1,"[14.75, 9]",NA,NA
+329,329,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+330,330,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+331,331,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+332,332,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+333,333,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+334,334,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+335,335,Wired Headphones,1,"[14.75, 9]",NA,NA
+336,336,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+337,337,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+338,338,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+339,339,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+340,340,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+341,341,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+342,342,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+343,343,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+344,344,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+345,345,LG Dryer,1,"[600.0, 3]",NA,NA
+346,346,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+347,347,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+348,348,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+349,349,Apple Watch,1,"[399.99, 9]",NA,NA
+350,350,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+351,351,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+352,352,iPhone,1,"[999.99, 12]",NA,NA
+353,353,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+354,354,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+355,355,Wired Headphones,1,"[14.75, 9]",NA,NA
+356,356,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+357,357,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+358,358,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+359,359,iPhone,1,"[999.99, 12]",NA,NA
+360,360,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+361,361,iPad Pro,1,"[849.99, 7]",NA,NA
+362,362,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+363,363,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+364,364,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+365,365,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+366,366,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+367,367,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+368,368,20in Monitor,1,"[109.99, 6]",NA,NA
+369,369,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+370,370,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+371,371,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+372,372,iPhone,1,"[999.99, 12]",NA,NA
+373,373,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+374,374,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+375,375,Flatscreen TV,1,"[800, 8]",NA,NA
+376,376,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+377,377,Flatscreen TV,1,"[800, 8]",NA,NA
+378,378,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+379,379,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+380,380,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+381,381,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+382,382,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+383,383,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+384,384,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+385,385,Wired Headphones,1,"[14.75, 9]",NA,NA
+386,386,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+387,387,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+388,388,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+389,389,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+390,390,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+391,391,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+392,392,Wired Headphones,1,"[14.75, 9]",NA,NA
+393,393,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+394,394,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+395,395,Wired Headphones,1,"[14.75, 9]",NA,NA
+396,396,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+397,397,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+398,398,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+399,399,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+400,400,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+401,401,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+402,402,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+403,403,iPhone,1,"[999.99, 12]",NA,NA
+404,404,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+405,405,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+406,406,Apple Watch,1,"[399.99, 9]",NA,NA
+407,407,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+408,408,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+409,409,Flatscreen TV,1,"[800, 8]",NA,NA
+410,410,Flatscreen TV,1,"[800, 8]",NA,NA
+411,411,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+412,412,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+413,413,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+414,414,Flatscreen TV,1,"[800, 8]",NA,NA
+415,415,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+416,416,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+417,417,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+418,418,Apple Watch,1,"[399.99, 9]",NA,NA
+419,419,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+420,420,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+421,421,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+422,422,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+423,423,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+424,424,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+425,425,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+426,426,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+427,427,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+428,428,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+429,429,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+430,430,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+431,431,iPad Pro,1,"[849.99, 7]",NA,NA
+432,432,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+433,433,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+434,434,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+435,435,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+436,436,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+437,437,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+438,438,Flatscreen TV,1,"[800, 8]",NA,NA
+439,439,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+440,440,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+441,441,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+442,442,Apple Watch,1,"[399.99, 9]",NA,NA
+443,443,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+444,444,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+445,445,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+446,446,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+447,447,iPhone,1,"[999.99, 12]",NA,NA
+448,448,Apple Watch,1,"[399.99, 9]",NA,NA
+449,449,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+450,450,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+451,451,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+452,452,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+453,453,iPad Pro,1,"[849.99, 7]",NA,NA
+454,454,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+455,455,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+456,456,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+457,457,iPhone,1,"[999.99, 12]",NA,NA
+458,458,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+459,459,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+460,460,iPhone,1,"[999.99, 12]",NA,NA
+461,461,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+462,462,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+463,463,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+464,464,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+465,465,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+466,466,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+467,467,20in Monitor,1,"[109.99, 6]",NA,NA
+468,468,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+469,469,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+470,470,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+471,471,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+472,472,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+473,473,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+474,474,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+475,475,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+476,476,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+477,477,iPhone,1,"[999.99, 12]",NA,NA
+478,478,iPhone,1,"[999.99, 12]",NA,NA
+479,479,iPhone,1,"[999.99, 12]",NA,NA
+480,480,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+481,481,iPad Pro,1,"[849.99, 7]",NA,NA
+482,482,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+483,483,Flatscreen TV,1,"[800, 8]",NA,NA
+484,484,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+485,485,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+486,486,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+487,487,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+488,488,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+489,489,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+490,490,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+491,491,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+492,492,Wired Headphones,1,"[14.75, 9]",NA,NA
+493,493,Wired Headphones,1,"[14.75, 9]",NA,NA
+494,494,LG Washing Machine,1,"[600, 3]",NA,NA
+495,495,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+496,496,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+497,497,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+498,498,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+499,499,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+500,500,iPhone,1,"[999.99, 12]",NA,NA
+501,501,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+502,502,Wired Headphones,1,"[14.75, 9]",NA,NA
+503,503,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+504,504,Wired Headphones,1,"[14.75, 9]",NA,NA
+505,505,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+506,506,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+507,507,iPhone,1,"[999.99, 12]",NA,NA
+508,508,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+509,509,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+510,510,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+511,511,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+512,512,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+513,513,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+514,514,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+515,515,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+516,516,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+517,517,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+518,518,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+519,519,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+520,520,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+521,521,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+522,522,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+523,523,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+524,524,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+525,525,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+526,526,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+527,527,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+528,528,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+529,529,Wired Headphones,1,"[14.75, 9]",NA,NA
+530,530,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+531,531,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+532,532,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+533,533,iPhone,1,"[999.99, 12]",NA,NA
+534,534,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+535,535,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+536,536,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+537,537,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+538,538,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+539,539,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+540,540,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+541,541,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+542,542,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+543,543,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+544,544,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+545,545,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+546,546,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+547,547,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+548,548,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+549,549,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+550,550,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+551,551,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+552,552,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+553,553,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+554,554,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+555,555,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+556,556,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+557,557,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+558,558,LG Washing Machine,1,"[600, 3]",NA,NA
+559,559,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+560,560,20in Monitor,1,"[109.99, 6]",NA,NA
+561,561,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+562,562,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+563,563,Flatscreen TV,1,"[800, 8]",NA,NA
+564,564,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+565,565,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+566,566,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+567,567,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+568,568,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+569,569,Wired Headphones,1,"[14.75, 9]",NA,NA
+570,570,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+571,571,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+572,572,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+573,573,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+574,574,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+575,575,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+576,576,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+577,577,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+578,578,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+579,579,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+580,580,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+581,581,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+582,582,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+583,583,iPhone,1,"[999.99, 12]",NA,NA
+584,584,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+585,585,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+586,586,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+587,587,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+588,588,20in Monitor,1,"[109.99, 6]",NA,NA
+589,589,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+590,590,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+591,591,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+592,592,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+593,593,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+594,594,Apple Watch,1,"[399.99, 9]",NA,NA
+595,595,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+596,596,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+597,597,iPhone,1,"[999.99, 12]",NA,NA
+598,598,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+599,599,Apple Watch,1,"[399.99, 9]",NA,NA
+600,600,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+601,601,20in Monitor,1,"[109.99, 6]",NA,NA
+602,602,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+603,603,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+604,604,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+605,605,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+606,606,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+607,607,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+608,608,Wired Headphones,1,"[14.75, 9]",NA,NA
+609,609,Flatscreen TV,1,"[800, 8]",NA,NA
+610,610,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+611,611,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+612,612,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+613,613,iPhone,1,"[999.99, 12]",NA,NA
+614,614,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+615,615,Wired Headphones,1,"[14.75, 9]",NA,NA
+616,616,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+617,617,iPad Pro,1,"[849.99, 7]",NA,NA
+618,618,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+619,619,iPhone,1,"[999.99, 12]",NA,NA
+620,620,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+621,621,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+622,622,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+623,623,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+624,624,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+625,625,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+626,626,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+627,627,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+628,628,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+629,629,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+630,630,iPhone,1,"[999.99, 12]",NA,NA
+631,631,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+632,632,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+633,633,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+634,634,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+635,635,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+636,636,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+637,637,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+638,638,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+639,639,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+640,640,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+641,641,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+642,642,iPhone,1,"[999.99, 12]",NA,NA
+643,643,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+644,644,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+645,645,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+646,646,Wired Headphones,1,"[14.75, 9]",NA,NA
+647,647,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+648,648,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+649,649,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+650,650,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+651,651,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+652,652,Apple Watch,1,"[399.99, 9]",NA,NA
+653,653,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+654,654,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+655,655,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+656,656,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+657,657,iPhone,1,"[999.99, 12]",NA,NA
+658,658,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+659,659,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+660,660,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+661,661,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+662,662,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+663,663,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+664,664,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+665,665,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+666,666,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+667,667,LG Washing Machine,1,"[600, 3]",NA,NA
+668,668,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+669,669,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+670,670,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+671,671,20in Monitor,1,"[109.99, 6]",NA,NA
+672,672,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+673,673,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+674,674,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+675,675,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+676,676,iPad Pro,1,"[849.99, 7]",NA,NA
+677,677,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+678,678,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+679,679,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+680,680,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+681,681,iPad Pro,1,"[849.99, 7]",NA,NA
+682,682,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+683,683,iPhone,1,"[999.99, 12]",NA,NA
+684,684,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+685,685,Wired Headphones,1,"[14.75, 9]",NA,NA
+686,686,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+687,687,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+688,688,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+689,689,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+690,690,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+691,691,Apple Watch,1,"[399.99, 9]",NA,NA
+692,692,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+693,693,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+694,694,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+695,695,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+696,696,Wired Headphones,1,"[14.75, 9]",NA,NA
+697,697,Wired Headphones,1,"[14.75, 9]",NA,NA
+698,698,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+699,699,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+700,700,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+701,701,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+702,702,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+703,703,Apple Watch,1,"[399.99, 9]",NA,NA
+704,704,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+705,705,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+706,706,Apple Watch,1,"[399.99, 9]",NA,NA
+707,707,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+708,708,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+709,709,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+710,710,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+711,711,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+712,712,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+713,713,Wired Headphones,1,"[14.75, 9]",NA,NA
+714,714,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+715,715,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+716,716,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+717,717,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+718,718,20in Monitor,1,"[109.99, 6]",NA,NA
+719,719,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+720,720,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+721,721,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+722,722,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+723,723,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+724,724,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+725,725,Flatscreen TV,1,"[800, 8]",NA,NA
+726,726,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+727,727,iPad Pro,1,"[849.99, 7]",NA,NA
+728,728,LG Washing Machine,1,"[600, 3]",NA,NA
+729,729,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+730,730,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+731,731,LG Dryer,1,"[600.0, 3]",NA,NA
+732,732,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+733,733,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+734,734,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+735,735,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+736,736,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+737,737,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+738,738,Wired Headphones,1,"[14.75, 9]",NA,NA
+739,739,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+740,740,iPad Pro,1,"[849.99, 7]",NA,NA
+741,741,Apple Watch,1,"[399.99, 9]",NA,NA
+742,742,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+743,743,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+744,744,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+745,745,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+746,746,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+747,747,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+748,748,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+749,749,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+750,750,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+751,751,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+752,752,iPhone,1,"[999.99, 12]",NA,NA
+753,753,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+754,754,20in Monitor,1,"[109.99, 6]",NA,NA
+755,755,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+756,756,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+757,757,Wired Headphones,1,"[14.75, 9]",NA,NA
+758,758,iPad Pro,1,"[849.99, 7]",NA,NA
+759,759,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+760,760,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+761,761,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+762,762,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+763,763,Apple Watch,1,"[399.99, 9]",NA,NA
+764,764,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+765,765,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+766,766,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+767,767,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+768,768,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+769,769,Flatscreen TV,1,"[800, 8]",NA,NA
+770,770,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+771,771,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+772,772,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+773,773,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+774,774,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+775,775,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+776,776,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+777,777,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+778,778,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+779,779,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+780,780,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+781,781,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+782,782,iPhone,1,"[999.99, 12]",NA,NA
+783,783,iPhone,1,"[999.99, 12]",NA,NA
+784,784,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+785,785,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+786,786,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+787,787,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+788,788,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+789,789,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+790,790,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+791,791,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+792,792,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+793,793,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+794,794,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+795,795,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+796,796,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+797,797,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+798,798,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+799,799,20in Monitor,1,"[109.99, 6]",NA,NA
+800,800,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+801,801,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+802,802,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+803,803,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+804,804,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+805,805,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+806,806,iPhone,1,"[999.99, 12]",NA,NA
+807,807,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+808,808,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+809,809,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+810,810,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+811,811,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+812,812,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+813,813,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+814,814,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+815,815,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+816,816,Apple Watch,1,"[399.99, 9]",NA,NA
+817,817,Apple Watch,1,"[399.99, 9]",NA,NA
+818,818,iPhone,1,"[999.99, 12]",NA,NA
+819,819,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+820,820,Apple Watch,1,"[399.99, 9]",NA,NA
+821,821,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+822,822,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+823,823,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+824,824,Flatscreen TV,1,"[800, 8]",NA,NA
+825,825,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+826,826,Flatscreen TV,1,"[800, 8]",NA,NA
+827,827,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+828,828,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+829,829,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+830,830,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+831,831,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+832,832,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+833,833,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+834,834,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+835,835,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+836,836,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+837,837,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+838,838,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+839,839,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+840,840,iPad Pro,1,"[849.99, 7]",NA,NA
+841,841,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+842,842,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+843,843,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+844,844,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+845,845,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+846,846,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+847,847,LG Dryer,1,"[600.0, 3]",NA,NA
+848,848,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+849,849,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+850,850,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+851,851,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+852,852,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+853,853,Apple Watch,1,"[399.99, 9]",NA,NA
+854,854,Flatscreen TV,1,"[800, 8]",NA,NA
+855,855,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+856,856,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+857,857,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+858,858,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+859,859,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+860,860,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+861,861,iPhone,1,"[999.99, 12]",NA,NA
+862,862,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+863,863,iPhone,1,"[999.99, 12]",NA,NA
+864,864,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+865,865,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+866,866,Flatscreen TV,1,"[800, 8]",NA,NA
+867,867,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+868,868,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+869,869,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+870,870,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+871,871,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+872,872,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+873,873,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+874,874,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+875,875,Apple Watch,1,"[399.99, 9]",NA,NA
+876,876,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+877,877,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+878,878,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+879,879,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+880,880,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+881,881,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+882,882,Wired Headphones,1,"[14.75, 9]",NA,NA
+883,883,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+884,884,Wired Headphones,1,"[14.75, 9]",NA,NA
+885,885,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+886,886,iPhone,1,"[999.99, 12]",NA,NA
+887,887,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+888,888,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+889,889,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+890,890,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+891,891,Wired Headphones,1,"[14.75, 9]",NA,NA
+892,892,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+893,893,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+894,894,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+895,895,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+896,896,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+897,897,iPad Pro,1,"[849.99, 7]",NA,NA
+898,898,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+899,899,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+900,900,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+901,901,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+902,902,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+903,903,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+904,904,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+905,905,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+906,906,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+907,907,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+908,908,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+909,909,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+910,910,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+911,911,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+912,912,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+913,913,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+914,914,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+915,915,Wired Headphones,1,"[14.75, 9]",NA,NA
+916,916,34in Ultrawide Monitor,1,"[379.99, 7]",NA,NA
+917,917,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+918,918,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+919,919,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+920,920,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+921,921,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+922,922,20in Monitor,1,"[109.99, 6]",NA,NA
+923,923,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+924,924,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+925,925,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+926,926,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+927,927,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+928,928,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+929,929,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+930,930,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+931,931,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+932,932,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+933,933,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+934,934,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+935,935,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+936,936,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+937,937,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+938,938,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+939,939,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+940,940,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+941,941,Apple Watch,1,"[399.99, 9]",NA,NA
+942,942,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+943,943,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+944,944,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+945,945,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+946,946,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+947,947,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+948,948,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+949,949,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+950,950,ThinkPad Laptop,1,"[999.99, 6]",NA,NA
+951,951,iPhone,1,"[999.99, 12]",NA,NA
+952,952,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+953,953,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+954,954,Flatscreen TV,1,"[800, 8]",NA,NA
+955,955,iPad Pro,1,"[849.99, 7]",NA,NA
+956,956,20in Monitor,1,"[109.99, 6]",NA,NA
+957,957,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+958,958,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+959,959,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+960,960,20in Monitor,1,"[109.99, 6]",NA,NA
+961,961,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+962,962,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+963,963,Samsung - Galaxy SS22,1,"[899.99, 7]",NA,NA
+964,964,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+965,965,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+966,966,27in FHD Monitor,1,"[149.99, 11]",NA,NA
+967,967,Apple Watch,1,"[399.99, 9]",NA,NA
+968,968,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+969,969,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+970,970,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+971,971,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+972,972,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+973,973,27in 4K Gaming Monitor,1,"[389.99, 9]",NA,NA
+974,974,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+975,975,iPhone,1,"[999.99, 12]",NA,NA
+976,976,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+977,977,iPhone,1,"[999.99, 12]",NA,NA
+978,978,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
+979,979,AA Batteries (4-pack),1,"[4.75, 30]",NA,NA
+980,980,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+981,981,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+982,982,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+983,983,"Dell - G15 15.6"" FHD Gaming Laptop",1,"[899.99, 5]",NA,NA
+984,984,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+985,985,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+986,986,LG Dryer,1,"[600.0, 3]",NA,NA
+987,987,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+988,988,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+989,989,USB-C Charging Cable,1,"[13.25, 30]",NA,NA
+990,990,Macbook Pro Laptop,1,"[1700, 9]",NA,NA
+991,991,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+992,992,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+993,993,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+994,994,Apple Watch,1,"[399.99, 9]",NA,NA
+995,995,Lightning Charging Cable,1,"[15.25, 30]",NA,NA
+996,996,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+997,997,AAA Batteries (4-pack),1,"[3.99, 30]",NA,NA
+998,998,Apple Airpods Headphones,1,"[129.0, 22]",NA,NA
+999,999,Bose SoundSport Headphones,1,"[119.99, 20]",NA,NA
